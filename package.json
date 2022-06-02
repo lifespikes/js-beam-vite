@@ -1,6 +1,6 @@
 {
     "name": "@lifespikes/js-beam-vite",
-    "version": "v0.7.83",
+    "version": "v0.7.84",
     "description": "Server-side utility for Vite using JS Beam",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
