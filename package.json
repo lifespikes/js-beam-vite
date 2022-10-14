@@ -1,6 +1,6 @@
 {
     "name": "@lifespikes/js-beam-vite",
-    "version": "v0.8.30",
+    "version": "v0.8.31",
     "description": "Server-side utility for Vite using JS Beam",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -16,6 +16,9 @@
         "vite-plugin-css-injected-by-js": "^2.1.0",
         "vite-plugin-laravel": "^0.2.2",
         "vite-tsconfig-paths": "^3.5.1"
+    },
+    "devDependencies": {
+        "@types/node": "^18.8.5"
     },
     "repository": {
         "url": "https://github.com/lifespikes/js-beam-vite"
